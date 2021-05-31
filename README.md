@@ -32,6 +32,7 @@ La implementación de este servidor en caso de querer revisarlo se encuentra en 
 Este modo es mas que nada para ver que tanto se tardan las funciones en ejecutarce, sin embargo se pueden modificar los archivos *.test.js en la raíz para probar diversos tipos de casos de prueba.
 
 `$ npm install `
+
 `$ npm install -D`
 
 `$ npm run test`
