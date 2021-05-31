@@ -41,7 +41,7 @@ Este modo es mas que nada para ver que tanto se tardan las funciones en ejecutar
 ## _Explicaciones generales_
 1. Las funciones que resuelven los problemas están en los mismos archivos p1.js y p2.js dentro de src
 2. Si bien se plantean problematicas a resolver, no se especifica el tipo de valor a devolver para cada una, por lo que me tomé la libertad de deducir el tipo de valor a devolver mas eficiente según mi criterio.
-3. La idea de relorganizar los archivos del examen práctico clonado fue utilizada en pro de ofrecer un metodo "sencillo" para mostrar los resultados,  como con los comandos del package.json.
+3. La idea de reorganizar los archivos del examen práctico clonado fue utilizada en pro de ofrecer un metodo "sencillo" para mostrar los resultados,  como con los comandos del package.json.
 4. Si desean ir modificando los archivos al utilizar el servidor en tiempo de ejecución, utilizen nodemon con:
 
     `$ npm install -D`
